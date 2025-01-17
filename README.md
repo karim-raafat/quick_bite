@@ -1,6 +1,6 @@
 # QuickBite 🍔🚴‍♂️
 
-A feature-rich and intuitive food delivery mobile application developed using Flutter for the frontend, with a powerful Python Flask backend and MySQL/MariaDB databases. Designed to provide a seamless user experience for browsing restaurants, placing orders, and tracking deliveries.
+QuickBite is a modern and stylish mobile application built with **Flutter** for seamless online food ordering. The app allows users to explore restaurants, browse menus, and place orders with ease. It focuses on providing a smooth and intuitive frontend experience.
 
 ## Key Features
 
